@@ -1,0 +1,9 @@
+ds-test/=forge_test/lib/ds-test/src/
+forge-std/=forge_test/lib/forge-std/src/
+mock-contract/=forge_test/lib/mock-contract/contracts/
+sushiswap/=forge_test/lib/sushiswap/contracts/
+
+contracts/=contracts/
+hardhat/=node_modules/hardhat/
+@openzeppelin/=node_modules/@openzeppelin/
+hardhat-deploy/=node_modules/hardhat-deploy/
